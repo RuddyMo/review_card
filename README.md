@@ -1,4 +1,4 @@
-![Résultat](chemin/vers/votre/image.jpg)
+![Résultat](view.jpeg)
 
 # Nuxt 3 Minimal Starter
 
